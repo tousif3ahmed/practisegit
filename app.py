@@ -7,3 +7,6 @@ def subtration(a,b):
 
 def duvision(a,b):
     return a/b
+
+def multiply(a,b):
+    return a*b
