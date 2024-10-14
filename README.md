@@ -1,1 +1,1 @@
-### practising Git hello commmands
+### practising it hello commmands
